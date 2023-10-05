@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24774cc0.css",
+    "main.js": "/static/js/main.e7abc722.js",
+    "static/media/covercar.png": "/static/media/covercar.49c8775a3dbc0a2a929f.png",
+    "index.html": "/index.html",
+    "main.24774cc0.css.map": "/static/css/main.24774cc0.css.map",
+    "main.e7abc722.js.map": "/static/js/main.e7abc722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24774cc0.css",
+    "static/js/main.e7abc722.js"
+  ]
+}
